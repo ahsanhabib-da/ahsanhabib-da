@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm so glad you're here!
+# Hey there, I'm so glad you're here!
 
 ### I'm Ahsan Habib, an Aspiring Healthcare Supply Chain Data Analyst!
 
@@ -17,7 +17,7 @@ My primary focus is bridging data analysis with operational healthcare logistics
 
 ### 🛠️ Current Toolkit & Learning Path:
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google&logoColor=white" alt="Google" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google&logoColor=white" alt="Google" />
 
 ---
 
@@ -29,5 +29,5 @@ My primary focus is bridging data analysis with operational healthcare logistics
 ### 🌐 Connect With Me:
 
 <a href="https://www.linkedin.com/in/ahsan-habib-da/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
