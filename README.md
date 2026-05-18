@@ -1,6 +1,6 @@
-# Hey there, I'm so glad you're here!
+# 👋 Hey there, I'm so glad you're here!
 
-I'm Ahsan Habib, an Aspiring Healthcare Supply Chain Data Analyst!
+### I'm Ahsan Habib, an Aspiring Healthcare Supply Chain Data Analyst!
 
 Welcome to my portfolio! I am a disciplined data analytics student currently earning the Google Data Analytics Professional Certificate via Coursera. 
 
