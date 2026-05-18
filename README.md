@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm so glad you're here!
+# Hey there, I'm so glad you're here!
 
 I'm Ahsan Habib, an Aspiring Healthcare Supply Chain Data Analyst!
 
