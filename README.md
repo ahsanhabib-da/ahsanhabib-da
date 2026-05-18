@@ -17,7 +17,7 @@ My primary focus is bridging data analysis with operational healthcare logistics
 
 ### 🛠️ Current Toolkit & Learning Path:
 
-!Excel (https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) !Coursera (https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white) !Google (https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google&logoColor=white) !Markdown (https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google&logoColor=white" alt="Google" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
 ---
 
@@ -28,4 +28,6 @@ My primary focus is bridging data analysis with operational healthcare logistics
 
 ### 🌐 Connect With Me:
 
-![LinkedIn (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-habib-da/)
+<a href="https://www.linkedin.com/in/ahsan-habib-da/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
