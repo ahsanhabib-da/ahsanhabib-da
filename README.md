@@ -24,7 +24,9 @@ My primary focus is bridging data analysis with operational healthcare logistics
 ### 🔬 Featured Case Study (In Progress)
 * Automated Pharmacy Operational Ledger: A connected, multi-table database system built to convert incoming supplier configurations, automate real-time point-of-sale operations, and deploy automated logic to safeguard operating margins.
 
----
+### 🏆 Professional Certifications:
+* Google Data Analytics Professional Certificate — *In Progress (Target Completion: Nov/Dec 2026)*
+  * Actively accelerating through advanced data processing, integrity verification, and SQL/Excel analytics pipelines.
 
 ### 🌐 Connect With Me:
 
