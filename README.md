@@ -2,7 +2,7 @@
 
 ### I'm Ahsan Habib, an Aspiring Healthcare Supply Chain Data Analyst!
 
-Welcome to my portfolio! I am a disciplined data analytics student currently earning the Google Data Analytics Professional Certificate via Coursera. 
+Welcome to my portfolio! I have completed the Google Data Analytics Professional Certificate.
 
 My primary focus is bridging data analysis with operational healthcare logistics—transforming manual pharmaceutical records into automated, high-integrity tracking systems that secure capital and optimize supply chains.
 
@@ -25,8 +25,8 @@ My primary focus is bridging data analysis with operational healthcare logistics
 * Automated Pharmacy Operational Ledger: A connected, multi-table database system built to convert incoming supplier configurations, automate real-time point-of-sale operations, and deploy automated logic to safeguard operating margins.
 
 ### 🏆 Professional Certifications:
-* Google Data Analytics Professional Certificate — *In Progress (Target Completion: Nov/Dec 2026)*
-  * Actively accelerating through advanced data processing, integrity verification, and SQL/Excel analytics pipelines.
+* Google Data Analytics Professional Certificate – Google / Coursera | [Verify Credential](https://www.credly.com/badges/9fd1e554-27b0-4747-9f63-cbfc31cdc8df/linked_in?t=tlpw3x)
+  * Mastered end-to-end data processing, integrity verification, SQL query optimization, Tableau visualizations, and Excel analytical models.
 
 ### 🌐 Connect With Me:
 
