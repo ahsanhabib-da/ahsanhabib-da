@@ -17,7 +17,7 @@ My primary focus is bridging data analysis with operational healthcare logistics
 
 ### 🛠️ Current Toolkit & Learning Path:
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera" /> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google&logoColor=white" alt="Google" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 
 ---
 
@@ -25,7 +25,8 @@ My primary focus is bridging data analysis with operational healthcare logistics
 * Automated Pharmacy Operational Ledger: A connected, multi-table database system built to convert incoming supplier configurations, automate real-time point-of-sale operations, and deploy automated logic to safeguard operating margins.
 
 ### 🏆 Professional Certifications:
-* Google Data Analytics Professional Certificate – Google / Coursera | [Verify Credential](https://www.credly.com/badges/9fd1e554-27b0-4747-9f63-cbfc31cdc8df/linked_in?t=tlpw3x)
+* **Google Data Analytics Professional Certificate** – Google / Coursera | [Verify Credential](https://www.credly.com/badges/9fd1e554-27b0-4747-9f63-cbfc31cdc8df/linked_in?t=tlpw3x)
+
   * Mastered end-to-end data processing, integrity verification, SQL query optimization, Tableau visualizations, and Excel analytical models.
 
 ### 🌐 Connect With Me:
