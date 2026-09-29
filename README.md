@@ -28,7 +28,7 @@ My primary focus is bridging data analysis with operational healthcare logistics
 * **Google AI Professional Certificate** — Google / Coursera | [Verify Credential](https://www.coursera.org/account/accomplishments/specialization/XYDJVBO8Z95M)
   * Applied generative AI techniques, structured prompt engineering, and LLM-driven workflow automation for rapid data synthesis and operational problem-solving.
 
-* **Google Data Analytics Professional Certificate** — Google / Coursera | [Verify Credential](https://www.credly.com/badges/3fd5e594-2780-4747-9763-cbfe35cdc8df/linked_in?t=s1yedu)
+* **Google Data Analytics Professional Certificate** — Google / Coursera | [Verify Credential](https://www.credly.com/earner/earned/badge/9fd1e554-27b0-4747-9f63-cbfc31cdc8df)
   * Mastered end-to-end data processing, integrity verification, SQL query optimization, Tableau visualizations, and Excel analytical models.
 
 
